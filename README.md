@@ -10,8 +10,21 @@ Cоздать функцию greeting, которая принимает в ка
 
 # Запросили/Вызвали
 
+Браузер (Chrome)
+
 ![Test_console1.jpg](Test/Test_console1.jpg)
+
+Live Server (VS Code)
+
+![Test_LiveServer1.jpg](Test/Test_LiveServer1.jpg)
 
 # Вернули Приветствие
 
+Браузер (Chrome)
+
 ![Test_console2.jpg](Test/Test_console2.jpg)
+
+Live Server (VS Code)
+
+![Test_LiveServer2.jpg](Test/Test_LiveServer2.jpg)
+
